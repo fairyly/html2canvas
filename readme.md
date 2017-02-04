@@ -5,6 +5,8 @@ html2canvas
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/niklasvh/html2canvas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://travis-ci.org/niklasvh/html2canvas.png)](https://travis-ci.org/niklasvh/html2canvas)
 
+https://github.com/niklasvh/html2canvas/wiki/Proxies
+
 #### JavaScript HTML renderer ####
 
  The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser. The screenshot is based on the DOM and as such may not be 100% accurate to the real representation as it does not make an actual screenshot, but builds the screenshot based on the information available on the page.
